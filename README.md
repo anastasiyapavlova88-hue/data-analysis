@@ -46,3 +46,4 @@ Segment-based marketing
 Tableau Dashboard
 
 Interactive dashboard:
+https://public.tableau.com/app/profile/anastasiia.pavlova5938/viz/SmartDeviceUsageInsights/Dashboard1
